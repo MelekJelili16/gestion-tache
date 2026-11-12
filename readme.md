@@ -3,7 +3,7 @@
 Application console développée en Python permettant de gérer une liste de tâches quotidiennes.
 
 ## Réalisé par
-* Nom Prénom 1
+* Nom Prénom 1 Mohamed Malek Jelili
 * Nom Prénom 2
 
 ## Fonctionnalités
